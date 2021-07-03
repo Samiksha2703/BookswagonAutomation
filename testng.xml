@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/NewArrivalBooksTest.java">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+            <class name="com.bridgelabz.bookswagon.NewArrivalBooksTest">
+                <methods>
+                    <include name="login_Into_Account"/>
+                    <include name="place_An_Order"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BooksNotInStalkTest.java">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+            <class name="com.bridgelabz.bookswagon.BooksNotInStalkTest">
+                <methods>
+                    <include name="login_Into_Account"/>
+                    <include name="place_An_Order"/>
+                    <include name="logout_From_Account"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BuyBookWithInvalidQuantity.java">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+            <class name="com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity">
+                <methods>
+                    <include name="login_Into_Account"/>
+                    <include name="place_An_Order"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/InvalidLogin.java">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+            <class name="com.bridgelabz.bookswagon.InvalidLogin">
+                <methods>
+                    <include name="login_Into_Account"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BooksWagonTest.java">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+            <class name="com.bridgelabz.bookswagon.BooksWagonTest">
+                <methods>
+                    <include name="login_Into_Account"/>
+                    <include name="place_An_Order"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.bridgelabz.bookswagon.utility.TestNgListener"></listener>
+    </listeners>
+</suite>

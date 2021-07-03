@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="282701" started-at="2021-07-03T13:31:03 IST" finished-at="2021-07-03T13:35:46 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/NewArrivalBooksTest.java" duration-ms="77446" started-at="2021-07-03T13:31:03 IST" finished-at="2021-07-03T13:32:21 IST">
+      <class name="com.bridgelabz.bookswagon.NewArrivalBooksTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.bridgelabz.bookswagon.NewArrivalBooksTest@4837595f]" name="setUp" is-config="true" duration-ms="25195" started-at="2021-07-03T13:31:03 IST" finished-at="2021-07-03T13:31:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.bridgelabz.bookswagon.NewArrivalBooksTest@4837595f]" name="startTest" is-config="true" duration-ms="5" started-at="2021-07-03T13:31:28 IST" finished-at="2021-07-03T13:31:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="login_Into_Account()[pri:1, instance:com.bridgelabz.bookswagon.NewArrivalBooksTest@4837595f]" name="login_Into_Account" duration-ms="8382" started-at="2021-07-03T13:31:29 IST" finished-at="2021-07-03T13:31:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Into_Account -->
+        <test-method status="PASS" signature="place_An_Order()[pri:2, instance:com.bridgelabz.bookswagon.NewArrivalBooksTest@4837595f]" name="place_An_Order" duration-ms="38441" started-at="2021-07-03T13:31:38 IST" finished-at="2021-07-03T13:32:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- place_An_Order -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.bridgelabz.bookswagon.NewArrivalBooksTest@4837595f]" name="endTest" is-config="true" duration-ms="1244" started-at="2021-07-03T13:32:19 IST" finished-at="2021-07-03T13:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.bookswagon.NewArrivalBooksTest@4837595f]" name="tearDown" is-config="true" duration-ms="701" started-at="2021-07-03T13:32:20 IST" finished-at="2021-07-03T13:32:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.bookswagon.NewArrivalBooksTest -->
+    </test> <!-- C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/NewArrivalBooksTest.java -->
+    <test name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BooksNotInStalkTest.java" duration-ms="38588" started-at="2021-07-03T13:32:21 IST" finished-at="2021-07-03T13:33:00 IST">
+      <class name="com.bridgelabz.bookswagon.BooksNotInStalkTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.bridgelabz.bookswagon.BooksNotInStalkTest@5710768a]" name="setUp" is-config="true" duration-ms="16260" started-at="2021-07-03T13:32:21 IST" finished-at="2021-07-03T13:32:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.bridgelabz.bookswagon.BooksNotInStalkTest@5710768a]" name="startTest" is-config="true" duration-ms="8" started-at="2021-07-03T13:32:37 IST" finished-at="2021-07-03T13:32:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="login_Into_Account()[pri:1, instance:com.bridgelabz.bookswagon.BooksNotInStalkTest@5710768a]" name="login_Into_Account" duration-ms="7856" started-at="2021-07-03T13:32:37 IST" finished-at="2021-07-03T13:32:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Into_Account -->
+        <test-method status="PASS" signature="place_An_Order()[pri:2, instance:com.bridgelabz.bookswagon.BooksNotInStalkTest@5710768a]" name="place_An_Order" duration-ms="9723" started-at="2021-07-03T13:32:46 IST" finished-at="2021-07-03T13:32:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- place_An_Order -->
+        <test-method status="PASS" signature="logout_From_Account()[pri:3, instance:com.bridgelabz.bookswagon.BooksNotInStalkTest@5710768a]" name="logout_From_Account" duration-ms="1758" started-at="2021-07-03T13:32:57 IST" finished-at="2021-07-03T13:32:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_From_Account -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.bridgelabz.bookswagon.BooksNotInStalkTest@5710768a]" name="endTest" is-config="true" duration-ms="63" started-at="2021-07-03T13:32:59 IST" finished-at="2021-07-03T13:32:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.bookswagon.BooksNotInStalkTest@5710768a]" name="tearDown" is-config="true" duration-ms="341" started-at="2021-07-03T13:32:59 IST" finished-at="2021-07-03T13:33:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.bookswagon.BooksNotInStalkTest -->
+    </test> <!-- C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BooksNotInStalkTest.java -->
+    <test name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BuyBookWithInvalidQuantity.java" duration-ms="46646" started-at="2021-07-03T13:33:00 IST" finished-at="2021-07-03T13:33:46 IST">
+      <class name="com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity@2c1dc8e]" name="setUp" is-config="true" duration-ms="19542" started-at="2021-07-03T13:33:00 IST" finished-at="2021-07-03T13:33:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login_Into_Account()[pri:1, instance:com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity@2c1dc8e]" name="login_Into_Account" duration-ms="8671" started-at="2021-07-03T13:33:19 IST" finished-at="2021-07-03T13:33:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Into_Account -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity@2c1dc8e]" name="startTest" is-config="true" duration-ms="0" started-at="2021-07-03T13:33:19 IST" finished-at="2021-07-03T13:33:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="place_An_Order()[pri:2, instance:com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity@2c1dc8e]" name="place_An_Order" duration-ms="16021" started-at="2021-07-03T13:33:29 IST" finished-at="2021-07-03T13:33:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- place_An_Order -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity@2c1dc8e]" name="endTest" is-config="true" duration-ms="52" started-at="2021-07-03T13:33:46 IST" finished-at="2021-07-03T13:33:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity@2c1dc8e]" name="tearDown" is-config="true" duration-ms="493" started-at="2021-07-03T13:33:46 IST" finished-at="2021-07-03T13:33:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.bookswagon.BuyBookWithInvalidQuantity -->
+    </test> <!-- C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BuyBookWithInvalidQuantity.java -->
+    <test name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/InvalidLogin.java" duration-ms="46125" started-at="2021-07-03T13:33:47 IST" finished-at="2021-07-03T13:34:33 IST">
+      <class name="com.bridgelabz.bookswagon.InvalidLogin">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.bridgelabz.bookswagon.InvalidLogin@71b1a49c]" name="setUp" is-config="true" duration-ms="30843" started-at="2021-07-03T13:33:47 IST" finished-at="2021-07-03T13:34:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login_Into_Account()[pri:0, instance:com.bridgelabz.bookswagon.InvalidLogin@71b1a49c]" name="login_Into_Account" duration-ms="13872" started-at="2021-07-03T13:34:17 IST" finished-at="2021-07-03T13:34:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Into_Account -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.bridgelabz.bookswagon.InvalidLogin@71b1a49c]" name="startTest" is-config="true" duration-ms="0" started-at="2021-07-03T13:34:17 IST" finished-at="2021-07-03T13:34:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.bridgelabz.bookswagon.InvalidLogin@71b1a49c]" name="endTest" is-config="true" duration-ms="34" started-at="2021-07-03T13:34:32 IST" finished-at="2021-07-03T13:34:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.bookswagon.InvalidLogin@71b1a49c]" name="tearDown" is-config="true" duration-ms="576" started-at="2021-07-03T13:34:32 IST" finished-at="2021-07-03T13:34:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.bookswagon.InvalidLogin -->
+    </test> <!-- C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/InvalidLogin.java -->
+    <test name="C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BooksWagonTest.java" duration-ms="73148" started-at="2021-07-03T13:34:33 IST" finished-at="2021-07-03T13:35:46 IST">
+      <class name="com.bridgelabz.bookswagon.BooksWagonTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.bridgelabz.bookswagon.BooksWagonTest@1ea9f009]" name="setUp" is-config="true" duration-ms="22354" started-at="2021-07-03T13:34:33 IST" finished-at="2021-07-03T13:34:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.bridgelabz.bookswagon.BooksWagonTest@1ea9f009]" name="startTest" is-config="true" duration-ms="0" started-at="2021-07-03T13:34:55 IST" finished-at="2021-07-03T13:34:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="login_Into_Account(java.lang.String, java.lang.String)[pri:0, instance:com.bridgelabz.bookswagon.BooksWagonTest@1ea9f009]" name="login_Into_Account" duration-ms="7711" started-at="2021-07-03T13:34:57 IST" data-provider="testdata" finished-at="2021-07-03T13:35:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shende.samiksha@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BookswagonSamiksha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Into_Account -->
+        <test-method status="PASS" signature="place_An_Order()[pri:0, instance:com.bridgelabz.bookswagon.BooksWagonTest@1ea9f009]" name="place_An_Order" duration-ms="38666" started-at="2021-07-03T13:35:05 IST" finished-at="2021-07-03T13:35:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- place_An_Order -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.bridgelabz.bookswagon.BooksWagonTest@1ea9f009]" name="endTest" is-config="true" duration-ms="45" started-at="2021-07-03T13:35:45 IST" finished-at="2021-07-03T13:35:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.bookswagon.BooksWagonTest@1ea9f009]" name="tearDown" is-config="true" duration-ms="437" started-at="2021-07-03T13:35:45 IST" finished-at="2021-07-03T13:35:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.bookswagon.BooksWagonTest -->
+    </test> <!-- C:/Users/kalam/IdeaProjects/BookswagonAutomationProgram/src/test/java/com/bridgelabz/bookswagon/BooksWagonTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
